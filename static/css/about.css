@@ -1,0 +1,13 @@
+.about{ 
+    font-family: sans-serif;
+ 
+}
+.text1{
+    display: flex;
+    justify-content: right;
+    margin-top: 50px;
+}
+/* .img .about img{
+    margin-bottom: 100px;
+    margin-left: 350px;
+} */
